@@ -1,0 +1,12 @@
+Document Object:
+    The document object represents a web page that is loaded in the browser. By accessing the object, we can access 
+the HTML page.With the help of document objects, we can add dynamic content to  our page. The document object can be 
+accessed with the document.
+
+Syntax:   document.propertyname;
+
+Window Object:
+    It represents the browser window that displays the contents of the webpage. Whenever a window appears on the
+screen to display the contents of the document, the window object is created. 
+
+Syntax:   window.propertyname;
